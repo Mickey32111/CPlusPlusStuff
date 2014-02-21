@@ -11,6 +11,14 @@ int main()
 	cout << "Multiplication result: " << ( a * b ) << endl ;
 	cout << "Division result: " << ( a / b ) << endl ;
 	cout << "Modulus result: " << ( a % b ) << endl ;
+	cout << endl ;
 	
+	cout << "Increment (a): " << a++ << endl ;
+	cout << "Decrement (a): " << a-- << endl ;
+	cout << endl ;
+	
+	cout << "Increment (b): " << b++ << endl ;
+	cout << "Decrement (b): " << b-- << endl ;
+		
 	return 0 ;
 }
