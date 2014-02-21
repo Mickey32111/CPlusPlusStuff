@@ -8,14 +8,14 @@ int main()
 	cout << "(0 == 0) " << ( nil == num ) << "(true)" << endl ;
 	cout << "(A == a) " << ( cap == low ) << "(false)" ;
 	
-	cout << endl << "Inequality comparison: " ;
-	cout << "(0 != 1) " << ( nil != max ) << "(true)" ;
+	cout << endl << "Inequality comparison: " << endl ;
+	cout << "(0 != 1) " << ( nil != max ) << "(true)" << endl ;
 	
-	cout << endl << "Greater comparison: " ;
-	cout << "(0 > 1) " << ( nil > max ) << "(false)" ;
+	cout << endl << "Greater comparison: " << endl ;
+	cout << "(0 > 1) " << ( nil > max ) << "(false)" << endl ;
 	
-	cout << endl << "Lesser comparison: " ;
-	cout << "(0 < 1) " << ( nil < max ) << "(true)" ;
+	cout << endl << "Lesser comparison: " << endl ;
+	cout << "(0 < 1) " << ( nil < max ) << "(true)" << endl ;
 	
 	return 0 ;
 }
