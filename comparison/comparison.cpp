@@ -5,7 +5,7 @@ int main()
 {
 	int nil = 0, num = 0, max = 1 ; char cap = 'A', low = 'a' ;
 	cout << "Equality comparisons: " ;
-	cout << "(0 == 0) " << ( nil == num ) << "(true)" ;
+	cout << "(0 == 0) " << ( nil == num ) << "(true)" << endl ;
 	cout << "(A == a) " << ( cap == low ) << "(false)" ;
 	
 	cout << endl << "Inequality comparison: " ;
