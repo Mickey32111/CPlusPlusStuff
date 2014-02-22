@@ -11,6 +11,8 @@ int main()
 	{
 		i++ ;
 		vec[ i-1 ] = i ;
+		if ( i == 3 ) { cout << " | Skipped" << endl ; continue ; }
+		if ( i == 8 ) { cout << endl << "Done" ; break ; }
 		cout << " | " << vec.at( i-1 ) << endl ;
 	}
 	
