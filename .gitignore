@@ -1,4 +1,3 @@
-
 vectors/vectors
 
 vars/vars
@@ -14,7 +13,5 @@ arithmetic/arithmetic
 comparison/comparison
 
 logic/logic
-
-conditions/conditions
 
 ternary/ternary
