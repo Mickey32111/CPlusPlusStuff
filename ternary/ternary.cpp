@@ -18,5 +18,5 @@ int main()
 	max = ( a > b ) ? a : b ;
 	cout << endl << "Greater value is: " << max << endl ; 
 
-return 0 ;
+	return 0 ;
 }
